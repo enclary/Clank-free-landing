@@ -1,3 +1,7 @@
+
+<p align="center"><a href="http://limpid.pro"><img src="http://limpid.pro/" /></a></p>
+
+
 I began development of a template limpid.pro
 
 <b>Basic goals:</b>
