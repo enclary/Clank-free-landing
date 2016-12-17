@@ -1,5 +1,5 @@
 
-<p align="center"><a href="http://limpid.pro"><img src="http://limpid.pro/" /></a></p>
+<p align="center"><a href="http://limpid.pro"><img src="https://s28.postimg.org/gqnb794bx/limpid_logo.png" /></a></p>
 
 
 I began development of a template limpid.pro
