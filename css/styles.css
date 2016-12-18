@@ -1,0 +1,29 @@
+.download-card {
+width: 68%;
+border-radius: 3px;
+padding: 50px;
+margin: auto;
+background: #ededed;
+}
+
+
+@media (min-width: 576px) {
+.download-card {
+width: 96%;
+padding: 30px;
+}
+  }
+
+  @media (min-width: 720px) {
+.download-card {
+width: 78%;
+padding: 20px;
+}
+}
+
+
+.jumbotron {
+  min-height: 550px;
+  background-image: url(../img/face-cover.jpg);
+  background-size: cover;
+}
