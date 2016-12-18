@@ -13,6 +13,15 @@ I began development of a template limpid.pro
 
 <hr>
 
+<b>Version: 0.0.3a </b>
+
+- Add Features
+- Make subclass to future work
+- Update Jumbotron
+- Add images
+- Minor fixes
+
+
 <b>Version: 0.0.2a </b>
 
 - Add contact form
