@@ -13,6 +13,11 @@ I began development of a template limpid.pro
 
 <hr>
 
+<b>Version: 0.0.2a </b>
+
+- Add contact form
+- Other minor updates
+
 <b>Version: 0.0.1a </b>
 - Loading the core libraries needed to create the template
 - A plan to create and fill pattern
