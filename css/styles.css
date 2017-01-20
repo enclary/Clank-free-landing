@@ -9,12 +9,11 @@ box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
 
 .jumbotron-cover {
   min-height: 550px;
-  background-image: url(../img/face-cover.jpg);
+  background-color: #363951;
   background-size: cover;
   color: white;
   box-shadow: inset 0px 0px 10px rgba(0,0,0,0.9);
   border-radius: 0;
-  height: 100%;
 }
 /* Jumbtron-cover */
 
@@ -86,12 +85,12 @@ font-weight: 200;
 }
 
 .light-blue-container {
-background: #03A9F4;
+background: #2b2d40 ;
 width: 100%;
 padding: 30px;
 }
 .blue-container {
-background: #0288D1;
+background: #363951;
 width: 100%;
 padding: 30px;
 }
