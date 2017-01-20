@@ -12,10 +12,16 @@ I began development of a template limpid.pro
 
 <hr>
 
-<b>Version: 0.0.43a </b>
+<b>Version: 0.0.5a </b>
 
-- update to Bootstrap 4a
-
+- update to Bootstrap 4
+- add components panel
+- add adaptive panel
+- minor fixes
+- new images
+- clear thrash
+- edit buttons
+- delete navbar(on default template)
 <hr>
 
 <b>Version: 0.0.3a </b>
