@@ -16,6 +16,10 @@ if (typeof jQuery === 'undefined') {
 }(jQuery);
 
 
+
+
+
+
 +function () {
 
 var _typeof = typeof Symbol === "function" && typeof Symbol.iterator === "symbol" ? function (obj) { return typeof obj; } : function (obj) { return obj && typeof Symbol === "function" && obj.constructor === Symbol && obj !== Symbol.prototype ? "symbol" : typeof obj; };
@@ -34,6 +38,21 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
  * --------------------------------------------------------------------------
  */
+
+}).call(this);/* SCROLLING NAVBAR */
+//jQuery to collapse the navbar on scroll
+$(window).scroll(function () {
+if ($(".navbar").offset()) {
+    if ($(".navbar").offset().top > 50) {
+        $(".scrolling-navbar").addClass("top-nav-collapse");
+    } else {
+        $(".scrolling-navbar").removeClass("top-nav-collapse");
+    }
+}
+
+});
+
+
 
 var Util = function ($) {
 
