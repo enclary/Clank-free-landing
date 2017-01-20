@@ -10,6 +10,11 @@ I began development of a template limpid.pro
 - Bootstrap only
 - Landing Page
 
+<hr>
+
+<b>Version: 0.0.43a </b>
+
+- update to Bootstrap 4a
 
 <hr>
 
