@@ -1,16 +1,28 @@
 .display-4 {
   text-align: center;
+    font-size: 2.6rem;
+  font-weight: 260;
 }
 .display-3 {
   text-align: center;
 }
 
+.lead {
+  text-align: center;
+  font-weight: 100;
+}
+.p {
+
+    font-weight: 100;
+}
 
 
 
 
-
-
+.btn {
+    margin-right: 1%;
+    border-radius: 6rem;
+}
 
 
 
