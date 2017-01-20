@@ -1,11 +1,9 @@
-
-
-
-
-
-
-
-
+.display-4 {
+  text-align: center;
+}
+.display-3 {
+  text-align: center;
+}
 
 
 
@@ -114,13 +112,15 @@ font-weight: 200;
   
 }
 
-.light-blue-container {
+.lip-f2b2cont{
 background: #2b2d40 ;
 width: 100%;
-padding: 30px;
 }
-.blue-container {
+.lip-f363cont {
 background: #363951;
 width: 100%;
-padding: 30px;
+color: white;
+}
+.lip-contzone {
+  padding: 30px;
 }
